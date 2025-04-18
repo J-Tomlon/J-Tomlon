@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J-Tomlon, Jack Tomlon
-- 👀 I’m interested in Data Science especially 
+- 👀 I’m interested in Data Science in all industries
 - 🌱 I’m currently learning at Northern Arizona University
 - 📫 How to reach me
   Email: Jmt665@nau.edu
